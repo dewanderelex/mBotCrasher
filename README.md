@@ -1,7 +1,7 @@
 # Author: Alex Nguyen
 ## Gettysburg Colege
 
-### Good morning, today I want to introduce to you guys reality game with my own embed system on the Arduino based car. The game is called “mBot crasher arcade.” My embedded system on the car involve the active use of sensors (line following, ultrasonic, and infrared) and devices (led, sound, and motor). It also optimizes the use of mathematics with the appearance of sigmoid function. But first, let’s talk about the rule of the game.
+### Good morning, today I want to introduce to you guys reality game with my own embed system on the Arduino based car. The game is called “mBot crasher arcade.” My embedded system on the car involve the active use of sensors (line following, ultrasonic, and infrared) and devices (led, sound, and motor). It also optimizes the use of mathematics with the appearance of sigmoid function.
 
 ### Note: You can view the powerpoint, script, in the mBot Reference folder.
 
